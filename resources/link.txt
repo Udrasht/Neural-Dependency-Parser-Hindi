@@ -1,0 +1,7 @@
+https://github.com/destinyson7/Dependency-Parser-Marathi/tree/master
+
+
+https://github.com/veeral-agarwal/Dependency-Parser-Hindi/tree/main
+https://github.com/sentient-bread/Dependency/tree/main
+https://github.com/sentient-bread/Dependency/tree/main
+https://github.com/akashrajkn/dependency-parser/tree/stage
