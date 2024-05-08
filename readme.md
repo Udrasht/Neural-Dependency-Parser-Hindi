@@ -37,3 +37,5 @@ Make sure you have the following dependencies installed:
 
 For more detailed information about the project, please refer to the [report.pdf](./Report.pdf) file located at the root of this repository.
 
+For Complete Project refer to the Repo: [link](https://github.com/Udrasht/Neural-Dependency-Parser-Hindi)
+
